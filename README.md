@@ -1,16 +1,19 @@
-## Hi there 👋
+<img src="banner.svg" alt="IanBu banner" width="100%">
 
-<!--
-**BunnyWuxian/BunnyWuxian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### hi, i'm ian (they/them) 🐰
 
-Here are some ideas to get you started:
+cybersecurity student working toward **ai security & red teaming**.
+i care about protecting regular people from phishing, data theft, and manipulation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔧 currently
+- studying for my B.S. in Computer Science – Cybersecurity Engineering
+- writing my own code, one small project at a time
+- designing a tool that detects when a livestream has been edited
+
+#### 🧠 interested in
+`ai security` · `red teaming` · `privacy` · `digital forensics` · `linux`
+
+#### 📂 projects
+coming soon — each one with a README on what it does, how it works, and what i'd improve.
+
+<sub>ship it, patch later.</sub>
