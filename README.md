@@ -11,7 +11,6 @@ i want to know how things break, who gets hurt when they do, and how to protect 
 - designing a tool that detects when a livestream has been edited
 
 #### 🕳️ current rabbit holes
-- the Codex Gigas and other cursed books
 - whether an ai can suffer, and who's responsible if it can
 - how psychopathy actually gets measured
 - how much a person gives away just by talking
