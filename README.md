@@ -12,7 +12,7 @@ i want to know how things break, who gets hurt when they do, and how to protect 
 
 #### 🕳️ current rabbit holes
 - the Codex Gigas and other cursed books
-- whether an ai can suffer, and who's responsible if it can
+- where does the responsibility reside with all of the ai
 - how psychopathy actually gets measured
 - how much a person gives away just by talking
 
