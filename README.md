@@ -20,6 +20,9 @@ i want to know how things break, who gets hurt when they do, and how to protect 
 `red teaming` · `ai ethics` · `ai security` · `digital forensics` · `privacy` · `linux`
 
 #### 📂 projects
-coming soon — each one with a README on what it does, how it works, and what i'd improve.
+**stream edit detector** · *in design*
+a viewer-side tool that compares a signed original stream against the version you actually received, and flags every replaced word, censored word, and cut. sparked by a patent application for live ai rewriting of speech. first version: two audio files.
+
+more coming — each one with a README on what it does, how it works, and what i'd improve.
 
 <sub>ship it, patch later.</sub>
